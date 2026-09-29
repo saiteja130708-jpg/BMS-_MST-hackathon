@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DecisionTrail Classic
 
 **Your evidence. Your receipt. Your trail.**
@@ -37,3 +38,6 @@ The runnable archive excludes `node_modules`, generated chain data, account file
 ## Validation
 
 `npm run typecheck`, `npm run build`, and all 38 contract/cryptographic tests passed. The browser flow completed actual receipt registration, a reverted closure, disposition, checkpoint, reclosure and an accumulated timeline on the isolated classic chain. `npm run test:browser` checks the restored browser flow at port 5176; on an already completed chain it confirms the retained history.
+=======
+# BMS-_MST-hackathon
+>>>>>>> 2e20536f078721aac8b8a12e1a54c2db466b01ce
